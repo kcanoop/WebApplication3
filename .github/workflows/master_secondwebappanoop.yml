@@ -52,5 +52,5 @@ jobs:
       with:
         app-name: 'secondwebappanoop'
         slot-name: 'production'
-        publish-profile: ${{ secrets.AzureAppService_PublishProfile_3d40a9c1e70c4422be4b3cae49640753 }}
+        publish-profile: ${{ secrets.AzureAppService_PublishProfile_d1a9210e64e44973b70d0b38fcef0e82 }}
         package: .
